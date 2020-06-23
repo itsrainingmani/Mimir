@@ -1,5 +1,5 @@
 tags: #projects #python #react #rust
-links: [[README]], [[202006100743]]
+links: [[README]], [[202006100743 Python CLI deployment]]
 
 __arasaka__: Python Flask API for getting top Twitter & Reddit posts
 __itsrainingmani.dev__: Personal Website
