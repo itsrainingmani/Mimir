@@ -1,5 +1,5 @@
 tags: #emacs, #clojure 
-links: [[202006221951 Clojure Intro]]
+links: [[Clojure Intro]]
 
 Workflow for starting a CIDER session in a Clojure Project:
 

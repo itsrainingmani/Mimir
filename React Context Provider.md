@@ -1,5 +1,5 @@
 tags: #react #react-context
-links: [[202006100030 React Context Hook]]
+links: [[React Context Hook]]
 
 A React Context consists of two parts: A Provider & a Consumer. Data flows from the top to the bottom. Once a Provider with values has been set, any number of components can `useContext` to Consume the Context.
 

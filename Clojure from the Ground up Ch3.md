@@ -1,5 +1,5 @@
 tags: #clojure , #fp , #groundup 
-links: [[202006231444 Clojure from the Ground Up Ch2]]
+links: [[Clojure from the Ground Up Ch2]]
 
 Symbols are names for things and when evaluated, Clojure replaces the symbols with their corresponding values.
 

@@ -1,5 +1,5 @@
 tags: #clojure, #groundup, #fp
-links: [[Emacs Keybinds & Workflow]] [[202006221951 Clojure Intro]]
+links: [[Emacs Keybinds & Workflow]] [[Clojure Intro]]
 
 https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome
 

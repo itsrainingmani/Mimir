@@ -1,5 +1,5 @@
 tags: #clojure , #groundup , #fp 
-links: [[202006231340 Clojure from the Ground Up Ch1]] [[Emacs Keybinds & Workflow]] [[202006221951 Clojure Intro]]
+links: [[Clojure from the Ground Up Ch1]] [[Emacs Keybinds & Workflow]] [[Clojure Intro]]
 
 Types:
 What is a type -> Property that some values share (group of values which work in the same way, share the same properties)
